@@ -1,0 +1,8 @@
+{
+  "name": "MimeMuse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5908c9ad"
+}
